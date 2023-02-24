@@ -3,7 +3,7 @@
 ### Description
 The Arts Museum Database is a group final project created for "ENSF 300 Software Engineering Practices for Data Management". This project is a terminal-based application that uses Python to interface with a database created using MySQL. Depending on the role of the user (guest, data-entry, or admin) different permissions and options will be provided to query and manipulate data.
 
-This repository contains a project information pdf file, an SQL file, and two Python files. The project information pdf contains information regarding task distribution among group members, software notes/installations, user login information, the enhanced entity relationship diagram (EERD), database design decisions/assumptions, and the relational diagram. The SQL file script is used to initialize and create the database. The Python file titled "ArtsMuseumInterface.py" contains the full Python script created by the entire group. The Python file titled "ArtsMuseumInterface - Liam Mah.py" contains code that only Liam Mah wrote (in addition to the SQL script file).
+This repository contains a project information pdf file, an SQL file, and two Python files. The project information pdf contains information regarding task distribution among group members, software notes/installations, user login information, the enhanced entity relationship diagram (EERD), database design decisions/assumptions, and the relational diagram. The SQL file script is used to initialize and create the database. The Python file titled "ArtsMuseumInterface.py" contains the full Python script created by the entire group.
 
 ### Installation and Use
 To run the application created in this repository, please follow the following steps:
